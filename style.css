@@ -1,0 +1,34 @@
+#loginbox{
+	margin-top: 50px;
+}
+div.panel-heading span{
+	float:right; 
+	font-size:80%; 
+	position:relative; 
+	top:-10px;
+}
+.input-group{
+	margin-bottom: 25px;
+}
+div#login-alert{
+	 display:none;
+}
+.panel-body{
+	 padding-top:30px;
+}
+.form-group{
+	 margin-top:10px;
+}
+div.alert-danger{
+	text-align: center;
+}
+#logout{
+	background-color: #f00;
+	border-radius: 16px;
+}
+#back{
+	float:right;  
+	position:relative; 
+	top: 5px;
+	padding-right: 10px;
+}
